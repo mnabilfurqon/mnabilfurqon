@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&size=29&multiline=true&width=700&lines=Welcome+To+My+GitHub+Profile)](https://git.io/typing-svg)
 
-## Hi there, I'm [Nabil](https://github.com/mnabilfurqon)👋. Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mnabilfurqon.mnabilfurqon)
+## Hi there, I'm [Nabil](https://github.com/mnabilfurqon)👋. Glad to see you here! &nbsp;
 ```
 You don't need to wait to be rich to become great.
 ```
