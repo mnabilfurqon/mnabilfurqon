@@ -7,7 +7,7 @@ You don't need to wait to be rich to become great.
 
 ## About Me
 - 🎓 I'm currently studying Software Engineering at Universitas Pendidikan Indonesia
-- ⚒️ Currently participating in the Alterra Academy 2023
+- ⚒️ Completed participation in Alterra Academy 2023
 - 🚀 Still learning about Web Development using ReactJS
 - 💪 Have great passion in programming especially in web programming
 
