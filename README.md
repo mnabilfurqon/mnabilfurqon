@@ -6,7 +6,7 @@ You don't need to wait to be rich to become great.
 ```
 
 ## About Me
-- 🎓 I'm currently studying Software Engineering at Universitas Pendidikan Indonesia
+- 🎓 I am a fresh graduate of Software Engineering at Universitas Pendidikan Indonesia
 - ⚒️ Completed participation in Alterra Academy and Internship at PT. Mitra Solusi Aktual Integrasi
 - 🚀 Still learning about Web Development using React.js
 - 💪 Have great passion in programming especially in web programming
